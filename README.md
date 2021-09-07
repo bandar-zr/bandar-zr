@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bandar-zr
+- 👋 Hi, I’m ZR3H
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python - c++
 - 💞️ I’m looking to collaborate on ...
